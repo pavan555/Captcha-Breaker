@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ff4643a-9bf2-48ce-85a0-fdf92af502f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/captcha breaker.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/captcha breaker.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -265,7 +266,10 @@
       <workItem from="1563004182953" duration="219000" />
       <workItem from="1565794269802" duration="45000" />
       <workItem from="1565794344307" duration="4042000" />
-      <workItem from="1565868043535" duration="2033000" />
+      <workItem from="1565868043535" duration="2352000" />
+      <workItem from="1565888490338" duration="154000" />
+      <workItem from="1565888749950" duration="1108000" />
+      <workItem from="1565891962716" duration="1129000" />
     </task>
     <task id="LOCAL-00001" summary="updating readme">
       <created>1565801976167</created>
@@ -288,11 +292,32 @@
       <option name="project" value="LOCAL" />
       <updated>1565868890095</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updating ipynb">
+      <created>1565870332379</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565870332379</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updating ipynb">
+      <created>1565870408401</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565870408401</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updating ipynb">
+      <created>1565870503696</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1565870503696</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22988000" />
+    <option name="totallyTimeSpent" value="25698000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
