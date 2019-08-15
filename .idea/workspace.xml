@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ff4643a-9bf2-48ce-85a0-fdf92af502f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/captcha breaker.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/captcha breaker.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -108,6 +107,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="sai Pavan Kumar &lt;gandhipavan555@gmail.com&gt;" />
         <option value="pavan555 &lt;gandhipavan555@gmail.com&gt;" />
       </list>
     </option>
@@ -150,20 +150,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Captcha-Breaker" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Captcha-Breaker" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -278,7 +265,7 @@
       <workItem from="1563004182953" duration="219000" />
       <workItem from="1565794269802" duration="45000" />
       <workItem from="1565794344307" duration="4042000" />
-      <workItem from="1565868043535" duration="687000" />
+      <workItem from="1565868043535" duration="2033000" />
     </task>
     <task id="LOCAL-00001" summary="updating readme">
       <created>1565801976167</created>
@@ -294,11 +281,18 @@
       <option name="project" value="LOCAL" />
       <updated>1565862805931</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updating ipynb">
+      <created>1565868890095</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565868890095</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21642000" />
+    <option name="totallyTimeSpent" value="22988000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
